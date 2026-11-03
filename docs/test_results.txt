@@ -1,0 +1,25 @@
+test_bad_date_rejected (test_assistant.AssistantTests.test_bad_date_rejected) ... ok
+test_blank_id_rejected (test_assistant.AssistantTests.test_blank_id_rejected) ... ok
+test_category_ranking (test_assistant.AssistantTests.test_category_ranking) ... ok
+test_dataset_valid (test_assistant.AssistantTests.test_dataset_valid) ... ok
+test_decimal_exactness (test_assistant.AssistantTests.test_decimal_exactness) ... ok
+test_demo_comparison (test_assistant.AssistantTests.test_demo_comparison) ... ok
+test_duplicates_rejected (test_assistant.AssistantTests.test_duplicates_rejected) ... ok
+test_empty_csv (test_assistant.AssistantTests.test_empty_csv) ... ok
+test_evidence_ids (test_assistant.AssistantTests.test_evidence_ids) ... ok
+test_invalid_currency_rejected (test_assistant.AssistantTests.test_invalid_currency_rejected) ... ok
+test_invalid_float_precision_rejected (test_assistant.AssistantTests.test_invalid_float_precision_rejected) ... ok
+test_invalid_month_rejected (test_assistant.AssistantTests.test_invalid_month_rejected) ... ok
+test_json_amounts_are_strings (test_assistant.AssistantTests.test_json_amounts_are_strings) ... ok
+test_money_format (test_assistant.AssistantTests.test_money_format) ... ok
+test_negative_spending (test_assistant.AssistantTests.test_negative_spending) ... ok
+test_no_change (test_assistant.AssistantTests.test_no_change) ... ok
+test_no_fake_month_comparison (test_assistant.AssistantTests.test_no_fake_month_comparison) ... ok
+test_nonfinite_rejected (test_assistant.AssistantTests.test_nonfinite_rejected) ... ok
+test_refunds_net_out (test_assistant.AssistantTests.test_refunds_net_out) ... ok
+test_reversed_dates_rejected (test_assistant.AssistantTests.test_reversed_dates_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.010s
+
+OK
