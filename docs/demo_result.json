@@ -1,0 +1,70 @@
+{
+  "answer": "Your net spending increased by €115.00 from 2026-09 to 2026-10. Largest category increases: Restaurants €65.00; Groceries €30.70; Cafes €19.30. Amounts are based only on the provided EUR transactions. Refunds reduce net spending. This is an informational comparison, not financial advice.",
+  "comparison": {
+    "earlier_month": "2026-09",
+    "later_month": "2026-10",
+    "earlier_net_outflow_eur": "217.39",
+    "later_net_outflow_eur": "332.39",
+    "change_eur": "115.00",
+    "category_changes": [
+      {
+        "category": "Restaurants",
+        "earlier_eur": "0.00",
+        "later_eur": "65.00",
+        "change_eur": "65.00"
+      },
+      {
+        "category": "Groceries",
+        "earlier_eur": "143.90",
+        "later_eur": "174.60",
+        "change_eur": "30.70"
+      },
+      {
+        "category": "Cafes",
+        "earlier_eur": "18.50",
+        "later_eur": "37.80",
+        "change_eur": "19.30"
+      },
+      {
+        "category": "Subscriptions",
+        "earlier_eur": "12.99",
+        "later_eur": "12.99",
+        "change_eur": "0.00"
+      },
+      {
+        "category": "Transport",
+        "earlier_eur": "42.00",
+        "later_eur": "42.00",
+        "change_eur": "0.00"
+      }
+    ],
+    "transaction_count": {
+      "earlier": 6,
+      "later": 7
+    }
+  },
+  "evidence": {
+    "source_transaction_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S005",
+      "S006",
+      "S007",
+      "S008",
+      "S009",
+      "S010",
+      "S011",
+      "S012",
+      "S013"
+    ],
+    "calculation_method": "SUM(Decimal amount_eur) by month and category; delta = later - earlier",
+    "limitations": [
+      "No bank connectivity",
+      "Only EUR data",
+      "No inference of fraud or affordability",
+      "Synthetic data; no personalized financial advice"
+    ]
+  }
+}
