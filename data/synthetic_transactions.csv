@@ -1,0 +1,14 @@
+transaction_id,posted_on,merchant,category,amount_eur,currency
+S001,2026-09-02,Demo Supermarket A,Groceries,85.40,EUR
+S002,2026-09-08,Demo Supermarket B,Groceries,68.50,EUR
+S003,2026-09-11,Demo Rail Co,Transport,42.00,EUR
+S004,2026-09-14,Demo Cafe,Cafes,18.50,EUR
+S005,2026-09-19,Demo Streaming,Subscriptions,12.99,EUR
+S006,2026-09-21,Demo Supermarket A,Groceries,-10.00,EUR
+S007,2026-10-02,Demo Supermarket A,Groceries,94.60,EUR
+S008,2026-10-05,Demo Supermarket B,Groceries,92.00,EUR
+S009,2026-10-07,Demo Rail Co,Transport,42.00,EUR
+S010,2026-10-10,Demo Cafe,Cafes,37.80,EUR
+S011,2026-10-12,Demo Streaming,Subscriptions,12.99,EUR
+S012,2026-10-17,Demo Restaurant,Restaurants,65.00,EUR
+S013,2026-10-18,Demo Grocer,Groceries,-12.00,EUR
